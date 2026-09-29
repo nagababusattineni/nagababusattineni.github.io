@@ -113,14 +113,11 @@ for job in jobs:
 story.append(Paragraph("SKILLS", section_style))
 
 skills = [
-    ("Languages", "Java, Core Java, C, C++"),
-    ("Automation", "Karate Framework (API & UI), Selenium WebDriver"),
-    ("BDD", "Cucumber, Gherkin"),
-    ("Test Frameworks", "TestNG, JUnit"),
-    ("Build & VCS", "Maven, Git"),
-    ("CI/CD", "Azure DevOps Pipelines, Jenkins"),
-    ("Reporting", "ExtentReports, Karate Reports"),
-    ("Practices", "Agile, SDLC/STLC, Defect Management (JIRA, TFS)"),
+    ("Languages", "Java"),
+    ("Automation", "Karate, Selenium, Playwright"),
+    ("API Testing", "API, Rest Assured"),
+    ("BDD & Framework Design", "Cucumber, Framework"),
+    ("Leadership", "QA Lead, Project Planning, Resource Planning"),
 ]
 
 skill_rows = []
