@@ -42,7 +42,7 @@ story = []
 story.append(Paragraph("Nagababu Sattineni", name_style))
 story.append(Paragraph("Senior SDET", title_style))
 story.append(Paragraph(
-    "nsattineni18@gmail.com &nbsp;|&nbsp; 9573061141 &nbsp;|&nbsp; "
+    "nsattineni18@gmail.com &nbsp;|&nbsp; 9573061141 &nbsp;|&nbsp; Hyderabad, India &nbsp;|&nbsp; "
     "linkedin.com/in/nagababu-sattineni-66639a54", contact_style))
 story.append(HRFlowable(width="100%", thickness=0.8, color=RULE, spaceAfter=8))
 
